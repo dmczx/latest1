@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "doctors-finder",
+    "description": "CS50",
+    "slug": "snack-Bkd5Reo44",
+    "privacy": "unlisted",
+    "sdkVersion": "32.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "https://d1wp6m56sqw74a.cloudfront.net/~assets/c9aa1be8a6a6fe81e20c3ac4106a2ebc",
+    "loading": {
+      "icon": "https://d1wp6m56sqw74a.cloudfront.net/~assets/c9aa1be8a6a6fe81e20c3ac4106a2ebc",
+      "hideExponentText": false,
+      "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+      "expo": "^32.0.0",
+      "react": "16.5.0",
+      "native-base": "2.11.0",
+      "react-native-cardview": "2.0.2",
+      "react-native-elements": "1.0.0",
+      "react-native-material-cards": "1.0.9",
+      "react-native-paper": "2.2.8",
+      "react-native-parallax-scroll-view": "0.21.3",
+      "react-native-vector-icons/Ionicons": "6.2.0",
+      "react-navigation": "2.6.2"
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf",
+        "xml"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
